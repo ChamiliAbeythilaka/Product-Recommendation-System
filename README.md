@@ -1,1 +1,2 @@
-# Product-Recommendation-System
+# 🎓 Personalized Product Recommendation System Using Ensemble Method
+This is my Final Year Research Project on building a **Personalized Product Recommendation System** using an **Ensemble of SVD, Neural Collaborative Filtering (NCF), and Content-Based Filtering (CBF)** powered by **BERT embeddings**. The system provides top-N product recommendations for users based on their past interactions and product content.
