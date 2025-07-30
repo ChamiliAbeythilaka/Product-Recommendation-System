@@ -13,5 +13,6 @@ This is my Final Year Research Project on building a **Personalized Product Reco
   - SVD (Matrix Factorization)
   - NCF (Neural Collaborative Filtering)
   - BERT (for product content embedding)
-  - Custom Ensemble (weighted average)
+  - Meta-Learning Ensemble (Stacking)
+  - Context-Aware Filtering 
 - **IDE**: Jupyter Notebook / PyCharm
